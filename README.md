@@ -18,18 +18,37 @@ cepat, praktis, dan akurat, sehingga pengalaman makan di tempat menjadi lebih ny
    b. Ingin mengurangi kesalahan pencatatan pesanan.
    c. Ingin meningkatkan efisiensi layanan dan kepuasan pelanggan.
 
-## Sumber Data (Public API)
-
-
-
+## Sumber Data (API)
+Sumber data pada aplikasi ini berasal dari API Internal yang dikembangkan sendiri menggunakan framework Laravel. API Internal tersebut digunakan untuk mengelola data menu, pencarian menu, dan proses pemesanan, serta berkomunikasi langsung dengan database MySQL dalam format JSON.
 
 ## Teknologi yang digunakan 
 1. Backend          :  Laravel 10
-2. Frontend         :   
-3. Database         :    MySQL
-4. Public API       :
+2. Frontend         :   HTML, CSS, dan JavaScript
+3. Database         :   MySQL
+4. API              :   API Internal 
 5. Version Control  : GitHub & Google Drive
 
+## Fitur-fitur aplikasi
+1. User
+   a. Register
+   b. Login
+   c. Halaman home
+   d. Halaman tentang kami
+   e. Halaman Menu
+   f. Halaman kontak
+   g. Search
+   h. keranjang
+   i. logout
+2. Admin
+   a. Login
+   b. Dashboard
+   c. search
+   d. produk
+   e. pesanan
+   f. pelanggan
+   g. pesan/messages
+   h. laporan
+   i. pengaturan
 ## Tangkapan layar (Screenshot) aplikasi.
 a. Halaman Login 
 <img width="1366" height="679" alt="Login" src="https://github.com/user-attachments/assets/d8e17542-76a4-4d00-a513-8d2f34f4933d" />
