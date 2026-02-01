@@ -31,4 +31,5 @@ cepat, praktis, dan akurat, sehingga pengalaman makan di tempat menjadi lebih ny
 5. Version Control  : GitHub & Google Drive
 
 
-   
+   <img width="1366" height="768" alt="tentang kami" src="https://github.com/user-attachments/assets/7f6bfb19-1e89-4021-9e43-0dd91101ac3c" />
+
