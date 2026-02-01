@@ -1,0 +1,185 @@
+/* ================= CARD ================= */
+.card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.card h3 {
+    margin-bottom: 15px;
+    color: #000;
+}
+
+/* ================= TABEL MESSAGE ================= */
+.product-table {
+    display: grid;
+    grid-template-columns: 
+        0.5fr   /* No */
+        2fr     /* Full Name */
+        3fr     /* Email */
+        4fr     /* Message */
+        1.2fr;  /* Aksi */
+    gap: 8px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.product-row {
+    display: contents;
+}
+
+.product-row .col {
+    padding: 10px 8px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.product-row.header .col {
+    font-weight: bold;
+    background: #f5f5f5;
+    color: #000;
+}
+
+/* ================= PESAN ================= */
+.message-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+}
+
+/* ================= AKSI ================= */
+.actions {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+/* EDIT BUTTON */
+.btn-edit {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+.btn-edit:hover {
+    background-color: #43a047;
+}
+
+/* DELETE BUTTON */
+.btn-delete {
+    background-color: transparent;
+    border: 1px solid #e53935;
+    color: #e53935;
+    padding: 6px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+.btn-delete i {
+    color: #e53935;
+    font-size: 14px;
+}
+
+.btn-delete:hover {
+    background-color: #e53935;
+}
+
+.btn-delete:hover i {
+    color: #fff;
+}
+
+/* ================= MODAL ================= */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    inset: 0;
+    background-color: rgba(0,0,0,0.4);
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    background: white;
+    margin: auto;
+    padding: 20px;
+    width: 400px;
+    max-width: 90%;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.modal input,
+.modal textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.modal textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+.modal button {
+    width: 100%;
+    padding: 10px;
+    background: #713918;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.modal button:hover {
+    background-color: #43a047;
+}
+
+/* ================= RESPONSIVE ================= */
+@media (max-width: 900px) {
+    .product-table {
+        grid-template-columns: 1fr;
+    }
+
+    .product-row span.col::before {
+        content: attr(data-label);
+        font-weight: bold;
+        display: block;
+        margin-bottom: 4px;
+    }
+
+    .product-row.header {
+        display: none;
+    }
+}
