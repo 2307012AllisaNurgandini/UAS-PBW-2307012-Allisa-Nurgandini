@@ -56,22 +56,13 @@ Pastikan perangkat telah memenuhi kebutuhan berikut:
 * **Composer**
 * **Web Server** (XAMPP / Laragon / Apache / Nginx)
 * **Database MySQL**
-### 2. Unduh / Clone Proyek
-Unduh source code proyek KEDAI LOKA dari repository atau Google Drive,
-atau gunakan perintah Git berikut:
-
-```bash
-git clone https://github.com/username/kedai-loka.git
-cd kedai-loka
-```
-
-### 3. Instal Dependency Laravel
+### 2. Instal Dependency Laravel
 Jalankan perintah berikut untuk menginstal seluruh dependency:
 
 ```bash
 composer install
 ```
-### 4. Konfigurasi Environment
+### 3. Konfigurasi Environment
 Salin file konfigurasi environment:
 
 ```bash
@@ -85,13 +76,13 @@ DB_DATABASE=kedai_loka
 DB_USERNAME=root
 DB_PASSWORD=
 ```
-### 5. Generate Application Key
+### 4. Generate Application Key
 Jalankan perintah:
 
 ```bash
 php artisan key:generate
 ```
-### 6. Migrasi Database
+### 5. Migrasi Database
 Buat tabel database dengan perintah:
 
 ```bash
@@ -103,7 +94,7 @@ php artisan migrate
 ```bash
 php artisan db:seed
 ```
-### 7. Menjalankan Aplikasi
+### 6. Menjalankan Aplikasi
 Jalankan server Laravel:
 
 ```bash
@@ -115,13 +106,13 @@ Aplikasi dapat diakses melalui browser:
 ```
 http://127.0.0.1:8000
 ```
-### 8. Pengujian Sistem
+### 7. Pengujian Sistem
 * Akses halaman utama KEDAI LOKA
 * Coba fitur daftar menu
 * Tambahkan menu ke keranjang
 * Lakukan checkout pesanan
 * Cek dashboard admin dan data pesanan
-### 9. Catatan Tambahan
+### 8. Catatan Tambahan
 Aplikasi KEDAI LOKA menggunakan:
 * **REST API Internal Laravel**
 * **Format data JSON**
