@@ -72,7 +72,7 @@ cp .env.example .env
 Lalu atur koneksi database pada file `.env`:
 
 ```env
-DB_DATABASE=kedai_loka
+DB_DATABASE=laravel
 DB_USERNAME=root
 DB_PASSWORD=
 ```
