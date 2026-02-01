@@ -116,7 +116,7 @@ http://127.0.0.1:8000
 Aplikasi KEDAI LOKA menggunakan:
 * **REST API Internal Laravel**
 * **Format data JSON**
-* Penyimpanan data menggunakan **MySQL**
+* Penyimpanan data menggunakan **MySQL** 
 ## Tangkapan layar (Screenshot) aplikasi.
 a. Halaman Login 
 <img width="1366" height="679" alt="Login" src="https://github.com/user-attachments/assets/d8e17542-76a4-4d00-a513-8d2f34f4933d" />
