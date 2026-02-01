@@ -1,7 +1,7 @@
 ## Identitas
 Nama : Allisa Nurgandini
 NIM  : 2307012
-Mata Kuliah : Pemrograman Berbasis Web
+Mata Kuliah : Pemrograman Berbasis Web 
 
 ## Deskripsi aplikasi
 KEDAI LOKA adalah aplikasi untuk pelanggan yang ingin memesan makanan dan minuman langsung di meja, 
