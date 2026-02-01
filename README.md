@@ -49,6 +49,85 @@ Sumber data pada aplikasi ini berasal dari API Internal yang dikembangkan sendir
    g. pesan/messages
    h. laporan
    i. pengaturan
+## Cara instalasi (Installation Guide)
+### 1. Persyaratan Sistem
+Pastikan perangkat telah memenuhi kebutuhan berikut:
+* **PHP** versi 8.1
+* **Composer**
+* **Web Server** (XAMPP / Laragon / Apache / Nginx)
+* **Database MySQL**
+* **Git**
+* **Web Browser** (Google Chrome / Microsoft Edge)
+### 2. Unduh / Clone Proyek
+Unduh source code proyek KEDAI LOKA dari repository atau Google Drive,
+atau gunakan perintah Git berikut:
+
+```bash
+git clone https://github.com/username/kedai-loka.git
+cd kedai-loka
+```
+
+### 3. Instal Dependency Laravel
+Jalankan perintah berikut untuk menginstal seluruh dependency:
+
+```bash
+composer install
+```
+### 4. Konfigurasi Environment
+Salin file konfigurasi environment:
+
+```bash
+cp .env.example .env
+```
+
+Lalu atur koneksi database pada file `.env`:
+
+```env
+DB_DATABASE=kedai_loka
+DB_USERNAME=root
+DB_PASSWORD=
+```
+### 5. Generate Application Key
+Jalankan perintah:
+
+```bash
+php artisan key:generate
+```
+### 6. Migrasi Database
+Buat tabel database dengan perintah:
+
+```bash
+php artisan migrate
+```
+
+(Jika tersedia data awal)
+
+```bash
+php artisan db:seed
+```
+### 7. Menjalankan Aplikasi
+Jalankan server Laravel:
+
+```bash
+php artisan serve
+```
+
+Aplikasi dapat diakses melalui browser:
+
+```
+http://127.0.0.1:8000
+```
+### 8. Pengujian Sistem
+* Akses halaman utama KEDAI LOKA
+* Coba fitur daftar menu
+* Tambahkan menu ke keranjang
+* Lakukan checkout pesanan
+* Cek dashboard admin dan data pesanan
+### 9. Catatan Tambahan
+Aplikasi KEDAI LOKA menggunakan:
+* **REST API Internal Laravel**
+* **Format data JSON**
+* Penyimpanan data menggunakan **MySQL**
 ## Tangkapan layar (Screenshot) aplikasi.
 a. Halaman Login 
 <img width="1366" height="679" alt="Login" src="https://github.com/user-attachments/assets/d8e17542-76a4-4d00-a513-8d2f34f4933d" />
