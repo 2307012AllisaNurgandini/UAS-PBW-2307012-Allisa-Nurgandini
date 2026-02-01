@@ -117,6 +117,8 @@ Aplikasi KEDAI LOKA menggunakan:
 * **REST API Internal Laravel**
 * **Format data JSON**
 * Penyimpanan data menggunakan **MySQL**
+## Link Database mysql
+https://drive.google.com/drive/folders/11NwW4605YQJ5jI6RZx-_w5gIKVtv9121?usp=sharing
 ## Tangkapan layar (Screenshot) aplikasi.
 a. Halaman Login 
 <img width="1366" height="679" alt="Login" src="https://github.com/user-attachments/assets/d8e17542-76a4-4d00-a513-8d2f34f4933d" />
