@@ -56,8 +56,6 @@ Pastikan perangkat telah memenuhi kebutuhan berikut:
 * **Composer**
 * **Web Server** (XAMPP / Laragon / Apache / Nginx)
 * **Database MySQL**
-* **Git**
-* **Web Browser** (Google Chrome / Microsoft Edge)
 ### 2. Unduh / Clone Proyek
 Unduh source code proyek KEDAI LOKA dari repository atau Google Drive,
 atau gunakan perintah Git berikut:
