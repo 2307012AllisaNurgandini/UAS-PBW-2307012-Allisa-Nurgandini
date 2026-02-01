@@ -31,23 +31,42 @@ cepat, praktis, dan akurat, sehingga pengalaman makan di tempat menjadi lebih ny
 5. Version Control  : GitHub & Google Drive
 
 ## Tangkapan layar (Screenshot) aplikasi.
-<img width="1366" height="768" alt="Login" src="https://github.com/user-attachments/assets/ce2917e0-a682-4ccd-9454-0d9d4a0cd05a" />
-<img width="1366" height="768" alt="Register" src="https://github.com/user-attachments/assets/1e9487f7-6fd4-48bf-8bcc-822d87ae477b" />
-<img width="1366" height="768" alt="Landing page User pelanggan" src="https://github.com/user-attachments/assets/ac7d4401-1772-415b-8020-e58ce8567858" />
-<img width="1366" height="768" alt="tentang kami" src="https://github.com/user-attachments/assets/d897ffa9-0038-49a6-8e77-cc58cd0f3265" />
-<img width="1366" height="768" alt="Menu minuman" src="https://github.com/user-attachments/assets/6ff273d0-feb1-49f2-90a2-38d832acbdb9" />
-<img width="1366" height="768" alt="menu makanan" src="https://github.com/user-attachments/assets/bbd3d51f-e88c-4bed-8417-301dff5ce34f" />
-<img width="1366" height="768" alt="kontak" src="https://github.com/user-attachments/assets/2fbf1e55-b227-495e-95cb-1c375bd43e48" />
-<img width="1366" height="768" alt="search" src="https://github.com/user-attachments/assets/cf9c4315-b2ce-468c-aa5c-4df57081fcac" />
-<img width="1366" height="768" alt="keranjang" src="https://github.com/user-attachments/assets/79d3cd2e-bc22-4502-8e80-c20b83c7c225" />
-<img width="1366" height="768" alt="logout" src="https://github.com/user-attachments/assets/23fb11d9-846f-4cab-b111-9493dde86993" />
-<img width="1366" height="768" alt="Dashboard admin" src="https://github.com/user-attachments/assets/fcc133e3-cd15-4091-a875-3ff6ae27e949" />
-<img width="1366" height="768" alt="produk" src="https://github.com/user-attachments/assets/ac935456-6884-4873-8b02-ccca64f52e30" />
-<img width="1366" height="768" alt="pesanan" src="https://github.com/user-attachments/assets/696fc8cc-ce40-434c-bfe3-04af7a0cadea" />
-<img width="1366" height="768" alt="pelanggan" src="https://github.com/user-attachments/assets/d01bd5b0-43a7-40d6-b3e1-786b56215cb2" />
-<img width="1366" height="768" alt="pesan" src="https://github.com/user-attachments/assets/10175534-994e-4cf3-9d20-aa6ec752aa61" />
-<img width="1366" height="768" alt="laporan" src="https://github.com/user-attachments/assets/7d0c430a-4bc9-4082-ba91-ad4bc3693df7" />
-<img width="1366" height="768" alt="pengaturan" src="https://github.com/user-attachments/assets/4af2baaa-5344-4b26-aacf-2108f7cb72ac" />
+## a. Halaman Login 
+<img width="1366" height="679" alt="Login" src="https://github.com/user-attachments/assets/d8e17542-76a4-4d00-a513-8d2f34f4933d" />
+## b. Halaman Register 
+<img width="1366" height="673" alt="Register" src="https://github.com/user-attachments/assets/40500c10-ac80-4d34-a0fd-945860c4af60" />
+## c. Halaman Landing page
+<img width="1366" height="675" alt="Landing page User pelanggan" src="https://github.com/user-attachments/assets/80121f83-c782-400d-be16-84191384517f" />
+## d. Halaman Tentang Kami
+<img width="1366" height="675" alt="tentang kami" src="https://github.com/user-attachments/assets/b6777f55-d4cb-4170-835f-1db3fef39f76" />
+## e. Halaman Menu Minuman 
+<img width="1366" height="671" alt="Menu minuman" src="https://github.com/user-attachments/assets/dec66567-a3f1-4a6c-941e-4c584d25244c" />
+## f. Halaman Menu Makanan 
+<img width="1366" height="673" alt="menu makanan" src="https://github.com/user-attachments/assets/2139fe19-80fd-4fba-ad4e-04db7993b52e" />
+## g. Halaman Kontak 
+<img width="1366" height="673" alt="kontak" src="https://github.com/user-attachments/assets/d59f0177-7f58-464b-9814-b2172930105d" />
+## h. Halaman pencarian 
+<img width="1366" height="677" alt="search" src="https://github.com/user-attachments/assets/333cf380-aa5a-42d4-b34d-3f2d00bb90b1" />
+## i. Halaman Keranjang
+<img width="1366" height="677" alt="keranjang" src="https://github.com/user-attachments/assets/6b564581-bd1f-4b3b-ab0f-7040d44ca6ed" />
+## j. Halaman user/Logout 
+<img width="1366" height="673" alt="logout" src="https://github.com/user-attachments/assets/06b59575-6135-44f6-9265-6b614f575eb4" />
+## k. Halaman Dashboard admin
+<img width="1366" height="675" alt="Dashboard admin" src="https://github.com/user-attachments/assets/95831467-2d0c-4e71-b55e-d23846f3be47" />
+## l. Halaman Produk 
+<img width="1366" height="673" alt="produk" src="https://github.com/user-attachments/assets/d0bded60-d77c-40be-a659-e4938d9d9ff4" />
+## m. Halaman Pesanan 
+<img width="1366" height="675" alt="pesanan" src="https://github.com/user-attachments/assets/2a1beef3-98e7-4008-aab4-e77845f35eea" />
+## n. Halaman Pelanggan 
+<img width="1366" height="671" alt="pelanggan" src="https://github.com/user-attachments/assets/158ba11f-bc90-4b08-902b-2bd5d14c9d8e" />
+## o. Halaman Pesan 
+<img width="1366" height="679" alt="pesan" src="https://github.com/user-attachments/assets/f1987166-952f-4387-9cf7-c09d282b5faf" />
+## p. Halaman Laporan 
+<img width="1366" height="676" alt="laporan" src="https://github.com/user-attachments/assets/9891a098-649c-4580-9913-4e89f4227867" />
+## q. Halaman Pengaturan 
+<img width="1366" height="673" alt="pengaturan" src="https://github.com/user-attachments/assets/40edfb3b-c496-4858-ace1-facff88cbe20" />
+
+
 
 
 
