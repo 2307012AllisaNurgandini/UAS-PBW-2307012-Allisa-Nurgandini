@@ -29,3 +29,6 @@ cepat, praktis, dan akurat, sehingga pengalaman makan di tempat menjadi lebih ny
 3. Database         :    MySQL
 4. Public API       :
 5. Version Control  : GitHub & Google Drive
+
+
+   
